@@ -4,7 +4,7 @@
 ## ✅ Task Objective
 To segment customers into meaningful groups based on their spending and product preferences using unsupervised machine learning.
 
-## 🔍 Your Approach
+## 🔍 Our Approach
 - The dataset was explored and cleaned by selecting relevant numerical features such as Annual Income, Spending Score, and Age.
 - Features were scaled using `StandardScaler` to normalize the data.
 - The Elbow Method and Silhouette Score were used to determine the optimal number of clusters, with K=4 showing the best balance of compactness and separation.
