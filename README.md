@@ -1,4 +1,4 @@
-# Task-2-Customer-Segmentation-Using-Unsupervised-Learning
+# Customer-Segmentation-Using-Unsupervised-Learning
 
 
 ## ✅ Task Objective
